@@ -1,5 +1,5 @@
 #im kinda depressed with this programming, but oh well
-LETTERS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+LETTERS = 'QWERTYUIOPASDFGHJKLZXCVBNM'
 
 
 def main():
